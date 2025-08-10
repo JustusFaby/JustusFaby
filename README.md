@@ -164,6 +164,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Happy+Coding!+🚀" />
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=JustusFaby&icon=2&color=6)](https://visitcount.itsvg.in)
+
 
 </div>

@@ -1,24 +1,169 @@
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/justusfaby067) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Justus Faby Jeyakumar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@FabyJustus19845) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:justusfaby@gmail.com) 
+<!-- Typing Animation Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=Hi+👋%2C+I'm+Jutsus+Faby;Full+Stack+Developer;UI%2FUX+Designer;Always+Learning+%26+Building" alt="Typing Animation" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JustusFaby&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JustusFaby&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JustusFaby&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JustusFaby&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JustusFaby&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Animated Wave GIF -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Profile!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JustusFaby&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+**💫 Full Stack Developer || UI/UX Designer**
+
+📧 **Email:** [justusfaby@gmail.com](mailto:justusfaby@gmail.com) - *Let's build something epic together!* 🚀
+
+### 🎯 Current Focus
+- **🔭 Currently crushing:** SIH (Smart India Hackathon) – turning ideas into killer code
+- **🌱 Leveling up in:** B.Tech (Information Technology) – because knowledge is my weapon
+- **👯 Collab mode:** Open for Full Stack Projects that actually **ship**, not just sit in repos
+- **🤔 Need help with:** Scaling apps, backend wizardry, and frontend magic that slaps
+- **💬 Ask me about:** Full Stack Development, React, Node.js, APIs, Databases
+- **⚡ Fun fact:** I debug faster than you can finish your coffee ☕
+
+---
+
+<!-- Animated Social Links -->
+<div align="center">
+
+## 🌐 Let's Connect!
+
+<a href="https://instagram.com/justusfaby067">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&animation=pulse"/>
+</a>
+<a href="https://linkedin.com/in/Justus Faby Jeyakumar">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/@FabyJustus19845">
+  <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/>
+</a>
+<a href="mailto:justusfaby@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<!-- Animated Tech Stack with Icons -->
+<div align="center">
+
+## 💻 Tech Arsenal
+
+### 🔥 Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=c,css,java,html,js,firebase,express,jquery,nodejs,nextjs,tailwind,react" />
+
+### 🗄️ Databases & Tools  
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,figma,github,git,githubactions" />
+
+</div>
+
+---
+
+<!-- Animated GitHub Stats with Hover Effects -->
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustusFaby&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustusFaby&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+<img width="90%" src="https://github-readme-streak-stats.vercel.app/?user=JustusFaby&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=C9D1D9"/>
+
+</div>
+
+---
+
+<!-- Your Original Snake Game (Keeping it exactly as is) -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<!-- Trophies with Animation -->
+<div align="center">
+
+## 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=JustusFaby&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+<!-- Professional Experience with Icons -->
+<div align="left">
+
+## 💼 Professional Journey
+
+### 🚀 **Frontend Development Intern** | *Unified Mentor*
+**📅 May 2025 – Aug 2025**
+
+- 🎯 Built sleek, responsive frontend components that *just work*
+- 🐛 Squashed stubborn UI bugs like a pro  
+- 🔄 Used Git for version control & collaborated in team sprints + code reviews
+
+---
+
+## 🎖️ Certifications & Achievements
+
+- 🖌 **Figma Essentials & Generative AI** – *Microsoft (LinkedIn)*
+- 💻 **Full Stack Web Development** – *Udemy*  
+- 🥇 **National Level Hackathon Finalist** – *IIMT & HITAM*
+- 🌍 **Attendee** – *Round-Square Conferences*
+
+</div>
+
+---
+
+<!-- Animated Quote -->
+<div align="center">
+
+## 💭 Developer Wisdom
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+
+</div>
+
+---
+
+<!-- Activity Graph -->
+<div align="center">
+
+## 📈 Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JustusFaby&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" />
+
+</div>
+
+---
+
+<!-- Top Contributed Repo -->
+<div align="center">
+
+## 🔝 Top Contributions
+
+<img src="https://github-contributor-stats.vercel.app/api?username=JustusFaby&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+---
+
+<!-- Animated Footer -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+### 🔥 *Always building. Always shipping. Always learning.* 🔥
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Happy+Coding!+🚀" />
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=JustusFaby&icon=2&color=6)](https://visitcount.itsvg.in)
+
+</div>

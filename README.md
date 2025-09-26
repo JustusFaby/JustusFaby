@@ -36,7 +36,7 @@
 <a href="https://instagram.com/justusfaby067">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&animation=pulse"/>
 </a>
-<a href="https://linkedin.com/in/Justus Faby Jeyakumar">
+<a href="https://linkedin.com/in/Justus%20Faby%20Jeyakumar">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://x.com/@FabyJustus19845">
@@ -79,7 +79,7 @@
 
 ---
 
-<!-- Your Original Snake Game (Keeping it exactly as is) -->
+<!-- Snake Game Animation -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
@@ -97,28 +97,31 @@
 
 ---
 
-<!-- Professional Experience with Icons -->
-<div align="left">
-
 ## 💼 Professional Journey
 
-### 🚀 **Frontend Development Intern** | *Unified Mentor*
-**📅 May 2025 – Aug 2025**
-
-- 🎯 Built sleek, responsive frontend components that *just work*
-- 🐛 Squashed stubborn UI bugs like a pro  
-- 🔄 Used Git for version control & collaborated in team sprints + code reviews
+<table>
+  <tr>
+    <td width="35"><img src="https://img.icons8.com/color/48/000000/source-code.png"/></td>
+    <td>
+      <b>Frontend Development Intern</b> | <i>Unified Mentor</i><br>
+      <span>📅 May 2025 – Aug 2025</span><br>
+      <ul>
+        <li>Built sleek, responsive frontend components that just work</li>
+        <li>Squashed stubborn UI bugs like a pro</li>
+        <li>Used Git for version control & collaborated in team sprints + code reviews</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🎖️ Certifications & Achievements
 
-- 🖌 **Figma Essentials & Generative AI** – *Microsoft (LinkedIn)*
-- 💻 **Full Stack Web Development** – *Udemy*  
-- 🥇 **National Level Hackathon Finalist** – *IIMT & HITAM*
-- 🌍 **Attendee** – *Round-Square Conferences*
-
-</div>
+- 🖌 <b>Figma Essentials & Generative AI</b> – <i>Microsoft (LinkedIn)</i>
+- 💻 <b>Full Stack Web Development</b> – <i>Udemy</i>
+- 🥇 <b>National Level Hackathon Finalist</b> – <i>IIMT & HITAM</i>
+- 🌍 <b>Attendee</b> – <i>Round-Square Conferences</i>
 
 ---
 
@@ -163,7 +166,5 @@
 ### 🔥 *Always building. Always shipping. Always learning.* 🔥
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Happy+Coding!+🚀" />
-
-
 
 </div>

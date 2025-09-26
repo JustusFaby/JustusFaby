@@ -73,7 +73,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustusFaby&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustusFaby&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
-<img width="90%" src="https://github-readme-streak-stats.vercel.app/?user=JustusFaby&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=C9D1D9"/>
+<img src="https://github-readme-streak-stats.vercel.app/?user=JustusFaby&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=C9D1D9" width="90%"/>
+
+
 
 </div>
 

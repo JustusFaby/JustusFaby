@@ -59,7 +59,7 @@
 <img src="https://skillicons.dev/icons?i=c,css,java,html,js,firebase,express,jquery,nodejs,nextjs,tailwind,react" />
 
 ### 🗄️ Databases & Tools  
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,figma,github,git,githubactions" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,figma,supabase,github,git,githubactions" />
 
 </div>
 

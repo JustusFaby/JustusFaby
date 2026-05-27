@@ -1,4 +1,4 @@
-<img width="2880" height="1470" alt="image" src="https://github.com/user-attachments/assets/011cddf9-8973-438e-bf76-ac1d35a8d322" /><!-- DYNAMIC MINIMALIST HEADER -->
+<!-- DYNAMIC MINIMALIST HEADER -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=32&duration=3000&pause=1000&color=111827&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Justus+Faby+Jeyakumar.;I+build+scalable+MERN+applications.;I+architect+AWS+Cloud+systems.;I+automate+CI%2FCD+pipelines." alt="Typing Header" />
   

@@ -1,16 +1,40 @@
 <!-- DYNAMIC MINIMALIST HEADER -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Justus+Faby+Jeyakumar;System+Architect+%7C+MERN+Developer;Building+Cloud-Native+Scalable+Solutions" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=32&duration=3000&pause=1000&color=111827&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Justus+Faby+Jeyakumar;System+Architect+%7C+MERN+Developer;Building+Cloud-Native+Scalable+Solutions" />
-    <img alt="Typing header" src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=32&duration=3000&pause=1000&color=111827&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Justus+Faby+Jeyakumar;System+Architect+%7C+MERN+Developer;Building+Cloud-Native+Scalable+Solutions" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Hi,+I%E2%80%99m+Justus+Faby;System+Architect+%7C+MERN+Developer;Building+Scalable+Cloud+Products" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=32&duration=3000&pause=1000&color=111827&center=true&vCenter=true&width=800&height=80&lines=Hi,+I%E2%80%99m+Justus+Faby;System+Architect+%7C+MERN+Developer;Building+Scalable+Cloud+Products" />
+    <img alt="Typing header" src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=32&duration=3000&pause=1000&color=111827&center=true&vCenter=true&width=800&height=80&lines=Hi,+I%E2%80%99m+Justus+Faby;System+Architect+%7C+MERN+Developer;Building+Scalable+Cloud+Products" />
   </picture>
   
   <p>
-    <a href="mailto:justusfaby@gmail.com"><img src="https://img.shields.io/badge/justusfaby@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://linkedin.com/in/justus-faby-jeyakumar-3a6235293/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://github.com/JustusFaby"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="https://wa.me/918870099067"><img src="https://img.shields.io/badge/+91_88700_99067-000000?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+    <a href="mailto:justusfaby@gmail.com">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/justusfaby@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/justusfaby@gmail.com-F3F4F6?style=for-the-badge&logo=gmail&logoColor=111827&color=F3F4F6&labelColor=F3F4F6" />
+        <img alt="Email" src="https://img.shields.io/badge/justusfaby@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+      </picture>
+    </a>
+    <a href="https://linkedin.com/in/justus-faby-jeyakumar-3a6235293/">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-F3F4F6?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=F3F4F6&labelColor=F3F4F6" />
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+      </picture>
+    </a>
+    <a href="https://github.com/JustusFaby">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-F3F4F6?style=for-the-badge&logo=github&logoColor=111827&color=F3F4F6&labelColor=F3F4F6" />
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+      </picture>
+    </a>
+    <a href="https://wa.me/918870099067">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/+91_88700_99067-000000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/+91_88700_99067-F3F4F6?style=for-the-badge&logo=whatsapp&logoColor=25D366&color=F3F4F6&labelColor=F3F4F6" />
+        <img alt="WhatsApp" src="https://img.shields.io/badge/+91_88700_99067-000000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" />
+      </picture>
+    </a>
   </p>
 </div>
 
@@ -41,7 +65,7 @@
 <summary><b>☁️ Cloud & Automation Pipelines</b></summary>
 <br/>
 
-*   **CI/CD Pipeline Automation:** Engineered an automated pipeline pushing live code from GitHub directly to staging. Wrapped builds in **Docker** to eliminate configuration drift (Jenkins, AWS EC2, Vercel)[cite: 1].
+*   **CI/CD Pipeline Automation:** Engineered an automated pipeline pushing live code from GitHub directly to staging. Wrapped builds in **Docker** to eliminate configuration drift (Jenkins, AWS EC2, Nginx)[cite: 1].
 *   **Serverless Resume Analyzer:** Architected an asynchronous file-processing node using AWS Lambda and Express.js, secured via **Cognito JWTs** and mapped to S3/DynamoDB triggers[cite: 1].
 
 </details>
@@ -61,8 +85,8 @@
 
 | 🏢 Professional Experience | 🎓 Education & Certifications |
 | :--- | :--- |
-| **Web Dev Intern @ Elevate Labs**<br/>Engineered cloud-native modules using Next.js & Tailwind within Agile sprints[cite: 1]. | **B.Tech in IT (2023–2027)**<br/>Sri Shakthi Institute of Engineering & Technology |
-| **Frontend Intern @ Unified Mentor**<br/>Restructured React component hierarchies, accelerating render speeds by 20%[cite: 1]. | **Verified Credentials**<br/>AWS Cloud Practitioner, Docker Foundations, Java Spring[cite: 1] |
+| **Web Dev Intern @ Elevate Labs**<br/>Engineered cloud-native modules using Next.js & Tailwind within Agile sprints[cite: 1]. | **B.Tech in IT (2023–2027)**<br/>Sri Shakthi Institute of Engineering & Technology[cite: 1]. |
+| **Frontend Intern @ Unified Mentor**<br/>Restructured React component hierarchies, accelerating render speeds by 20%[cite: 1]. | **Verified Credentials**<br/>AWS Cloud Practitioner, Docker Foundations, Full-Stack Java[cite: 1]. |
 
 ---
 

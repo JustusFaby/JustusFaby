@@ -1,6 +1,10 @@
 <!-- DYNAMIC MINIMALIST HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=32&duration=3000&pause=1000&color=111827&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Justus+Faby+Jeyakumar.;I+build+scalable+MERN+applications.;I+architect+AWS+Cloud+systems.;I+automate+CI%2FCD+pipelines." alt="Typing Header" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Justus+Faby+Jeyakumar;System+Architect+%7C+MERN+Developer;Building+Cloud-Native+Scalable+Solutions" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=32&duration=3000&pause=1000&color=111827&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Justus+Faby+Jeyakumar;System+Architect+%7C+MERN+Developer;Building+Cloud-Native+Scalable+Solutions" />
+    <img alt="Typing header" src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=32&duration=3000&pause=1000&color=111827&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Justus+Faby+Jeyakumar;System+Architect+%7C+MERN+Developer;Building+Cloud-Native+Scalable+Solutions" />
+  </picture>
   
   <p>
     <a href="mailto:justusfaby@gmail.com"><img src="https://img.shields.io/badge/justusfaby@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -37,7 +41,7 @@
 <summary><b>☁️ Cloud & Automation Pipelines</b></summary>
 <br/>
 
-*   **CI/CD Pipeline Automation:** Engineered an automated pipeline pushing live code from GitHub directly to staging. Wrapped builds in **Docker** to eliminate configuration drift (Jenkins, AWS EC2, Webhooks)[cite: 1].
+*   **CI/CD Pipeline Automation:** Engineered an automated pipeline pushing live code from GitHub directly to staging. Wrapped builds in **Docker** to eliminate configuration drift (Jenkins, AWS EC2, Vercel)[cite: 1].
 *   **Serverless Resume Analyzer:** Architected an asynchronous file-processing node using AWS Lambda and Express.js, secured via **Cognito JWTs** and mapped to S3/DynamoDB triggers[cite: 1].
 
 </details>
@@ -46,7 +50,7 @@
 <summary><b>⚡ Full-Stack Application Engineering</b></summary>
 <br/>
 
-*   **AI-Powered FAQ Chatbot:** Built a decoupled microservice processing context-aware responses. Reduced login latency by 15% and scaled to handle **500+ concurrent users** (React.js, Express, MongoDB, Groq API)[cite: 1].
+*   **AI-Powered FAQ Chatbot:** Built a decoupled microservice processing context-aware responses. Reduced login latency by 15% and scaled to handle **500+ concurrent users** (React.js, Express, MongoDB)[cite: 1].
 *   **Structural Udemy Clone:** Programmed a robust, object-oriented LMS. Mapped secure data schemas to an **Amazon RDS MySQL** database using strict parameterized SQL queries[cite: 1].
 
 </details>
@@ -57,8 +61,8 @@
 
 | 🏢 Professional Experience | 🎓 Education & Certifications |
 | :--- | :--- |
-| **Web Dev Intern @ Elevate Labs**<br/>Engineered cloud-native modules using Next.js & Tailwind within Agile sprints[cite: 1]. | **B.Tech in IT (2023–2027)**<br/>Sri Shakthi Institute of Engineering & Tech. CGPA: 7.61[cite: 1]. |
-| **Frontend Intern @ Unified Mentor**<br/>Restructured React component hierarchies, accelerating render speeds by 20%[cite: 1]. | **Verified Credentials**<br/>AWS Cloud Practitioner, Docker Foundations, MS Gen AI[cite: 1]. |
+| **Web Dev Intern @ Elevate Labs**<br/>Engineered cloud-native modules using Next.js & Tailwind within Agile sprints[cite: 1]. | **B.Tech in IT (2023–2027)**<br/>Sri Shakthi Institute of Engineering & Technology |
+| **Frontend Intern @ Unified Mentor**<br/>Restructured React component hierarchies, accelerating render speeds by 20%[cite: 1]. | **Verified Credentials**<br/>AWS Cloud Practitioner, Docker Foundations, Java Spring[cite: 1] |
 
 ---
 
@@ -76,3 +80,4 @@ Edge        : National Hackathon Finalist (IIMT, HITAM, SVCE)
 Frequency   : High
 Integration : Continuous (Docker + Jenkins)
 Directive   : Always building. Always shipping. 🚀
+```

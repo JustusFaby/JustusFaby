@@ -77,12 +77,12 @@ I build and debug real-world cloud-native systems on AWS, with strong practical 
 
 ## 📈 GitHub Analytics
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JustusFaby&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=21600" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustusFaby&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JustusFaby&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustusFaby&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JustusFaby&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JustusFaby&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 ---

@@ -1,6 +1,6 @@
 <!-- MODERN CLOUD & DEVOPS PROFILE README -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=34&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=1000&height=70&lines=Hi%2C+I'm+Justus+Faby+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Terraform+%7C+GitOps" alt="Typing header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=34&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=1000&height=70&lines=Hi%2C+I'm+Justus+Faby+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer+in+Progress;AWS+%7C+Kubernetes+%7C+Terraform+%7C+GitOps;Building+Reliable%2C+Scalable+Infrastructure" alt="Typing banner" />
 
   <p>
     <a href="mailto:justusfaby@gmail.com"><img src="https://img.shields.io/badge/Email-justusfaby%40gmail.com-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -30,7 +30,7 @@ I build and debug real-world cloud-native systems on AWS, with strong practical 
 
 ## 🧰 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,jenkins,githubactions,prometheus,grafana,linux,bash,python,java,js,ts,nodejs,react,mongodb,mysql,git&perline=10" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,jenkins,githubactions,prometheus,grafana,linux,bash,python,java,js,ts,nodejs,react,mongodb,mysql,git&perline=10" alt="Tech stack icons" />
 </div>
 
 ---
@@ -77,8 +77,8 @@ I build and debug real-world cloud-native systems on AWS, with strong practical 
 
 ## 📈 GitHub Analytics
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JustusFaby&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustusFaby&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JustusFaby&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&v=1" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustusFaby&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top languages" />
 </div>
 
 <div align="center">
